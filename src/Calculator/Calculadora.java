@@ -87,7 +87,7 @@ public class Calculadora {
 		}
 		
 		JButton botao_enter = new JButton();
-		botao_enter.setText("Enter");
+		botao_enter.setText("ENTER");
 		botao_enter.setBackground(corLaranja);
 		botao_enter.setBorder(botaoBorda);
 		botao_enter.setFont(botaoFonte);
